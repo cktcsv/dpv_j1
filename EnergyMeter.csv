@@ -1,0 +1,2 @@
+name,enabled,element,terminal,excess,radial,voltage_only,kva_normal,kva_emerg,peak_currents
+j1,true,line.oh_5964927408,1,true,true,false,0,0,[ 400 400 400 ]

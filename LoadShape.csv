@@ -1,0 +1,4 @@
+name,n_pts,interval,mean,std_dev,use_actual
+commercial,1,0.0002777777777777778,1,1,false
+other,1,0.0002777777777777778,1,1,false
+aggloadprofile,1,0.0002777777777777778,1,1,false

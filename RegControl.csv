@@ -1,0 +1,10 @@
+transformer,winding,v_reg,bandwidth,pt_ratio,ct_rating,r,x,bus,bus_node,delay,v_limit,max_tap_change,pt_phase,remote_pt_ratio
+subxfmr,2,124,2,60,300,0,0,,,90,0,16,1,60
+regxfmr_b18865,2,124,2,60,300,0,0,,,45,0,16,1,60
+regxfmr_b19008,2,124,2,60,300,0,0,,,46,0,16,1,60
+regxfmr_b18863,2,124,2,60,300,0,0,,,47,0,16,1,60
+regxfmr_b19010,2,124,2,60,300,0,0,,,48,0,16,1,60
+regxfmr_b4874,2,124,2,60,300,0,0,,,49,0,16,1,60
+regxfmr_b18864,2,124,2,60,300,0,0,,,50,0,16,1,60
+regxfmr_b4872,2,124,2,60,300,0,0,,,51,0,16,1,60
+regxfmr_b4868,2,124,2,60,300,0,0,,,52,0,16,1,60
