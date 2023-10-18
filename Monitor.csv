@@ -1,7 +1,7 @@
 name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
 subvi,true,transformer.subxfmr,2,voltage_current,false,false,false,false,true
-subpq,true,transformer.subxfmr,1,powers,false,false,true,false,false
-feederpq,true,line.oh_5964927408,1,powers,false,false,true,false,false
+subpq,true,transformer.subxfmr,1,power,false,false,true,false,false
+feederpq,true,line.oh_5964927408,1,power,false,false,true,false,false
 tap9,true,transformer.subxfmr,2,tap_position,false,false,false,false,true
 tap5,true,transformer.regxfmr_b4874,2,tap_position,false,false,false,false,true
 tap7,true,transformer.regxfmr_b4872,2,tap_position,false,false,false,false,true
@@ -11,11 +11,11 @@ tap3,true,transformer.regxfmr_b18863,2,tap_position,false,false,false,false,true
 tap6,true,transformer.regxfmr_b18864,2,tap_position,false,false,false,false,true
 tap2,true,transformer.regxfmr_b19008,2,tap_position,false,false,false,false,true
 tap4,true,transformer.regxfmr_b19010,2,tap_position,false,false,false,false,true
-cap3,true,capacitor.b4862-1,1,powers,false,true,false,false,true
-cap4,true,capacitor.b4829-1,1,powers,false,true,false,false,true
-cap5,true,capacitor.b4877-1,1,powers,false,true,false,false,true
-cap1,true,capacitor.b4909-1,1,powers,false,true,false,false,true
-cap2,true,capacitor.b18944,1,powers,false,true,false,false,true
+cap3,true,capacitor.b4862-1,1,power,false,true,false,false,true
+cap4,true,capacitor.b4829-1,1,power,false,true,false,false,true
+cap5,true,capacitor.b4877-1,1,power,false,true,false,false,true
+cap1,true,capacitor.b4909-1,1,power,false,true,false,false,true
+cap2,true,capacitor.b18944,1,power,false,true,false,false,true
 voltagetap1,true,transformer.regxfmr_b18865,2,voltage_current,false,false,false,false,true
 voltagetap2,true,transformer.regxfmr_b19008,2,voltage_current,false,false,false,false,true
 voltagetap3,true,transformer.regxfmr_b18863,2,voltage_current,false,false,false,false,true

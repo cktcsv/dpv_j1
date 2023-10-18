@@ -1,4 +1,4 @@
-element,terminal,control_type,pt_ratio,ct_ratio,off_setting,on_setting,delay,dead_time,ct_phase,pt_phase,pct_min_kvar
-line.oh_b4904,1,voltage,60,60,125,120.5,30,300,1,2,50
-line.oh_b18944,1,voltage,60,60,124,118,31,300,1,1,50
-line.oh_b4873,1,voltage,60,60,125,121,32,300,1,2,50
+capacitor,element,terminal,control_type,pt_ratio,ct_ratio,off_setting,on_setting,delay,dead_time,ct_phase,pt_phase,pct_min_kvar
+b4909-1,line.oh_b4904,1,voltage,60,60,125,120.5,30,300,1,2,50
+b18944,line.oh_b18944,1,voltage,60,60,124,118,31,300,1,1,50
+b4877-1,line.oh_b4873,1,voltage,60,60,125,121,32,300,1,2,50
